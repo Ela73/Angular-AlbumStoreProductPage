@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { ProductTracklistingComponent } from '../product-tracklisting/product-tracklisting.component'
 
 @Component({
   selector: 'app-product-page',
